@@ -88,9 +88,9 @@ Virtual-Motorcycle-Handlebar/
 ## Contributors
 
 - Madhumirra R
-- Jayapreeti D
 
-Developed collaboratively as a computer vision project using Python, OpenCV, and MediaPipe.
+
+Developed  as a computer vision project using Python, OpenCV, and MediaPipe.
 
 ---
 
